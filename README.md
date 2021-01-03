@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="http://erandra.me/wp-content/uploads/2021/01/logo-new-e1609567205403.png"/><br>
  I’m Erandra.Thanks for dropping by! I like to Code and help.<br><br>
  
   <img src="http://d0.awsstatic.com/Digital%20Marketing/House/temp/logo_aws-educate_light.png" width="150"/><br>
